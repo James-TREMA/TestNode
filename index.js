@@ -1,1 +1,1 @@
-console.log('Node est bien installé');
+console.log('Node est bien installé, bien joué !');
